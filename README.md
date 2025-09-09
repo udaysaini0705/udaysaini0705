@@ -61,9 +61,9 @@ A lightweight tool to detect whether a news headline/article is real or fake.
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/UDAY_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:UDAY_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/UDAY_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/UDAY_LINKEDIN](https://www.linkedin.com/in/uday-saini-b54a22328/))
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:udaysaini0705@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/udaysaini0705)
 
 ---
 
