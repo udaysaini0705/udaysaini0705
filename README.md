@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Uday Saini
 
-![Banner](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?semt=ais_hybrid&w=740&q=80)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
 <p>
