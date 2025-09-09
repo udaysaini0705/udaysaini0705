@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uday Saini  
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?semt=ais_hybrid&w=740&q=80)" width="35px">  
 Passionate **Developer** | Tech Enthusiast | Lifelong Learner 🚀  
 
 ---
