@@ -1,59 +1,71 @@
-# 👋 Hi, I'm Uday Saini  
 
-<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?semt=ais_hybrid&w=740&q=80)" width="35px">  
-Passionate **Developer** | Tech Enthusiast | Lifelong Learner 🚀  
+# 👋 Hi, I'm Uday Saini
 
----
+![Banner](assets/banner.png)
 
-## ✨ About Me  
-- 🎓 Computer Science student exploring the world of technology.  
-- 💻 Skilled in **HTML, CSS, JavaScript, Python, Java, C++**.  
-- 🛠️ Building projects with **Django, Git, GitHub, Figma, VS Code**.  
-- 🌱 Currently learning **React.js & Cloud Technologies**.  
-- 💡 Interested in **Web Development, Problem Solving & AI/ML**.  
-- 🎯 Goal: To become a skilled **Software Developer** and contribute to impactful projects.  
+<p>
+  <img alt="profile-emoji" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Passionate Developer · Web & Software · Problem-solver ♟️🚀
+</p>
 
 ---
 
-## 🛠️ Languages & Tools  
+## ✨ About Me
+- 🎓 Computer Science student exploring web & software development.  
+- 💻 Comfortable with **HTML | CSS | JavaScript | Java | C**.  
+- 🛠️ Tools: Git, GitHub, VS Code.  
+- 🌱 Currently learning **C programming** and improving problem-solving skills.   
+- 🎯 Goal: Build clean, user-friendly web apps and improve with each project.
+
+---
+
+## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,django,react,figma,xd,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode" alt="tools"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdaySaini&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaySaini&theme=tokyonight" height="160"/>
+  <img alt="Uday's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=udaysaini0705&show_icons=true&theme=tokyonight"/>
+  <img alt="Uday's streak" src="https://streak-stats.demolab.com?user=udaysaini0705&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 Top Languages  
+## 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySaini&layout=compact&theme=tokyonight" height="160"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📂 Featured Projects  
-- 🌐 [**University ERP System**](#) – Student dashboard for attendance, assignments, timetable.  
-- 📚 [**Book Recommendation App**](#) – Suggests books & allows sharing reviews.  
-- 🎶 [**Music Player Website**](#) – Interactive music player with playlists.  
-- 🤖 [**AI Chatbot**](#) – Mental health chatbot with multiple conversational flows.  
-- 💰 [**Expense Sharing App**](#) – Track & manage group expenses efficiently.  
+## 📂 Featured Projects (with images)
+
+### 📝 Text Summarizer
+A simple website that automatically shortens long text into a concise summary.  
+- 🔹 Built using **HTML, CSS, and JavaScript**.  
+- 🔹 Provides quick and meaningful summaries with just one click.  
+- 🔹 Clean UI for a smooth user experience.  
 
 ---
 
-## 📫 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/UdaySaini" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
-</p>
+### 📰 Fake News Detector  
+A lightweight tool to detect whether a news headline/article is real or fake.  
+- 🔹 Developed using **HTML, CSS, and JavaScript**.  
+- 🔹 Uses keyword-based logic to analyze credibility.  
+- 🔹 Aimed at raising awareness about misinformation online.  
 
 ---
 
-### 🌟 Fun Fact  
-*"Coding for me is not just problem-solving — it’s like solving puzzles every day!"*  
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/UDAY_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:UDAY_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/UDAY_GITHUB_USERNAME)
+
+---
+
+### 🌟 Fun
+> "Code, chess, and cups of chai — my perfect debug loop."
+
