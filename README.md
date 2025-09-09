@@ -1,7 +1,8 @@
 
 # 👋 Hi, I'm Uday Saini
 
-![Banner](assets/banner.png)
+![Banner](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?semt=ais_hybrid&w=740&q=80)
+
 
 <p>
   <img alt="profile-emoji" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -36,7 +37,7 @@
 
 ## 🚀 Top Languages
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDAY_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysaini0705&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
